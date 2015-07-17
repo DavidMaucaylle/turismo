@@ -1,0 +1,60 @@
+        <style type="text/css">
+ body{
+            background: #015fff;
+        }
+        .container{
+             width: 200px;
+            height: 250px;
+            background: #fff;
+            border-radius: 6px;
+            margin: 0 auto;
+            margin-top: 50px;
+            padding-left: 25px;
+            padding-top: 15px;
+            text-align: center;
+            font-family: tahoma;
+             -webkit-transition:all 0.5s linear;
+        }
+        .imagen{
+            width: 175px;
+            height: 200px;
+            background-image: url(../imag/tres.jpg);
+            background-size: cover;
+        }
+        .container:hover{
+            -webkit-transform:scale(1.3);
+             box-shadow: 6px 6px 8px #ccc;
+        }
+
+<.///////////////////////////////////////////////////////////////////.>
+body{
+            background: #015fff;
+        }
+        .container1{
+             width: 200px;
+            height: 250px;
+            background: #fff;
+            border-radius: 6px;
+            margin: 0 auto;
+            margin-top: 50px;
+            padding-left: 25px;
+            padding-top: 15px;
+            text-align: center;
+            font-family: tahoma;
+             -webkit-transition:all 0.5s linear;
+        }
+        .imagen1{
+            width: 175px;
+            height: 200px;
+            background-image: url(../imag/tres.jpg);
+            background-size: cover;
+        }
+        .container1:hover{
+            -webkit-transform:scale(1.3);
+             box-shadow: 6px 6px 8px #ccc;
+        }
+
+
+
+
+        </style>
